@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 
 /**
  *
- * @author Ana
+ * @author Yuemei Wu
  */
 public class TopStreamingArtist {
 
